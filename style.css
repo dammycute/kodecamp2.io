@@ -4,7 +4,7 @@
         }
         
         .header {
-            background-image: url(banner.jpeg);
+            background-image: url(https://raw.githubusercontent.com/dammycute/kodecamp2.io/main/banner.jpeg);
             height: 50rem;
             display: flex;
             flex-direction: column;
