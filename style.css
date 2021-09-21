@@ -4,7 +4,7 @@
         }
         
         .header {
-            background-image: url(image/portrait-3353699_1920.jpg);
+            background-image: url(banner.jpeg);
             height: 50rem;
             display: flex;
             flex-direction: column;
